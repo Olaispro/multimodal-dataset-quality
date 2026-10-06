@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Multimodal Dataset Quality Control"
+message: "If you use this project, please cite it."
+authors:
+  - family-names: Akinola
+    given-names: "Olamide Ikotun"
+version: 0.1.0
+license: MIT

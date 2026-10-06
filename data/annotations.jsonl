@@ -1,0 +1,2 @@
+{"image":"sample_a.txt","boxes":[{"label":"demo-object","bbox":[0.1,0.2,0.7,0.8]}]}
+{"image":"sample_b.txt","boxes":[]}
